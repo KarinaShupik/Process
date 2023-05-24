@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\home\Programming\C#\Pocess_Lab\Pocess_Lab\bin\Debug\Pocess_Lab.exe.config
+C:\Users\HP\Desktop\home\Programming\C#\Pocess_Lab\Pocess_Lab\bin\Debug\Pocess_Lab.exe
+C:\Users\HP\Desktop\home\Programming\C#\Pocess_Lab\Pocess_Lab\bin\Debug\Pocess_Lab.pdb
+C:\Users\HP\Desktop\home\Programming\C#\Pocess_Lab\Pocess_Lab\obj\Debug\Pocess_Lab.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\home\Programming\C#\Pocess_Lab\Pocess_Lab\obj\Debug\Pocess_Lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\home\Programming\C#\Pocess_Lab\Pocess_Lab\obj\Debug\Pocess_Lab.Form1.resources
+C:\Users\HP\Desktop\home\Programming\C#\Pocess_Lab\Pocess_Lab\obj\Debug\Pocess_Lab.Properties.Resources.resources
+C:\Users\HP\Desktop\home\Programming\C#\Pocess_Lab\Pocess_Lab\obj\Debug\Pocess_Lab.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\home\Programming\C#\Pocess_Lab\Pocess_Lab\obj\Debug\Pocess_Lab.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\home\Programming\C#\Pocess_Lab\Pocess_Lab\obj\Debug\Pocess_Lab.exe
+C:\Users\HP\Desktop\home\Programming\C#\Pocess_Lab\Pocess_Lab\obj\Debug\Pocess_Lab.pdb

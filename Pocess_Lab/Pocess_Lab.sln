@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pocess_Lab", "Pocess_Lab\Pocess_Lab.csproj", "{E249ACBC-2BBA-432F-A13E-A43A67D105CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E249ACBC-2BBA-432F-A13E-A43A67D105CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E249ACBC-2BBA-432F-A13E-A43A67D105CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E249ACBC-2BBA-432F-A13E-A43A67D105CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E249ACBC-2BBA-432F-A13E-A43A67D105CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22CCB5F5-433C-4CC2-AAF0-967EBCFED815}
+	EndGlobalSection
+EndGlobal
